@@ -22,9 +22,5 @@ Projeto educacional em Flask que demonstra:
 4. Listagem dos dados cadastrados
 5. Mensagens de erro personalizadas (sem JavaScript)
 
-## Como executar
 
-1. Clone o repositório:
-   ```bash
-   git clone git@github.com:SEU-USUARIO/flask-dados-pessoais.git
 
