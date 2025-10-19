@@ -17,10 +17,9 @@ Projeto educacional em Flask que demonstra:
 ## Funcionalidades
 
 1. Menu principal com navegação entre páginas
-2. Submenu de cadastro (Pessoais, Cliente, Produto)
-3. Cadastro de dados pessoais (Nome, E-mail, Telefone)
-4. Listagem dos dados cadastrados
-5. Mensagens de erro personalizadas (sem JavaScript)
+2. Cadastro de dados pessoais (Nome, E-mail, Telefone)
+3. Listagem dos dados cadastrados
+
 
 
 
