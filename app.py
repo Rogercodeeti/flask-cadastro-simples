@@ -5,6 +5,7 @@ app = Flask(__name__)
 dados_pessoais = []
 
 @app.route('/')
+
 def index():
     return render_template('index.html')
 
